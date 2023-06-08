@@ -11,4 +11,4 @@ npm install fs
 <br>
 npm install pptxgenjs
 <br><br>
-Isso instalará os pacotes para criação e formatação do arquivo pptx(slides).
+Isso instala os pacotes para criação e formatação do arquivo pptx(slides).
