@@ -8,6 +8,7 @@ Linux <br>
 
 Abra o terminal, vá para o caminho do projeto e instale os seguintes pacotes.<br>
 npm install fs
+<br>
 npm install pptxgenjs
 <br>
 Isso instalará os pacotes para criação e formatação do arquivo pptx(slides).
